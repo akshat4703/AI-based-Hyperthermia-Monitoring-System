@@ -22,7 +22,6 @@ This project combines **Electromagnetics**, **Biomedical Engineering**, and **Ar
 - CST results (S11, SAR plots, thermal maps) can be placed in:
 
 cst_results/
-├── antenna_design/
 ├── with_amc/
 └── without_amc/
 
